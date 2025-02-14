@@ -1,0 +1,72 @@
+1. Can you explain how you handle exceptions in Apex? Could you give examples of different strategies you've implemented to ensure robust error handling in your applications?
+
+
+2. What are the best practices for performing DML operations in Apex to avoid governor limits? How do you handle bulk data processing in your DML statements?
+
+3. Could you explain the use cases for Asynchronous Apex (e.g., Future Methods, Queueable, Batch, and Scheduled Apex)? When would you choose one over the other?
+
+4. How are primitive data types in Apex different from those in other programming languages you’ve worked with? How do you ensure proper data handling when dealing with these types?
+
+5. Can you describe a scenario where you have used Scheduled Apex? What are the challenges you faced while implementing it, and how did you overcome them?
+
+6. How do you utilize Collections (Lists, Sets, and Maps) in Apex to optimize performance and code efficiency? Can you provide examples of a complex problem where collections helped improve functionality?
+
+7. Can you explain the benefits of Batch Apex for handling large datasets? What are some key considerations when designing a batch job?
+
+8. How do you ensure high code coverage and effective testing in your test classes? Could you walk us through your approach to writing meaningful test methods for complex Apex logic?
+
+9. How have you implemented case collaboration features to improve communication and case resolution in the Service Cloud?
+
+10. Can you discuss the key features of the Service Console that you've implemented in past projects? How do these features help streamline agent productivity?
+
+11. What are some common design patterns you've used in Salesforce development? Could you share an example of when and how you've applied a design pattern to solve a specific problem?
+
+12. Could you explain your process for writing efficient Apex triggers? How do you prevent recursion and ensure that triggers are bulkified?
+
+13. How have you integrated telephony systems with Salesforce's Service Cloud? What challenges did you encounter, and how did you resolve them?
+
+14. How have you configured case notifications to improve collaboration between teams and agents in your previous projects?
+
+
+15. How have you utilized reporting to track and optimize the lifecycle of cases in Service Cloud? Can you share any custom reporting solutions you've implemented?
+
+16. What custom reports or dashboards have you created in Service Cloud to provide insights for case management and resolution efficiency?
+
+17. How do you manage access to Salesforce Knowledge Articles? Have you implemented any custom solutions to enhance access control?
+
+18. Have you worked on implementing or customizing the Salesforce Call Center? How did you handle integration with external systems for call management?
+
+19.How have you enhanced collaboration within Salesforce, especially in terms of case management or opportunity handling? Any custom solutions that improved teamwork?
+
+20. How do you ensure that Knowledge Articles are well-maintained, updated, and used effectively within the organization? Any automation or workflows involved in this process?
+
+
+21. How have you customized the Salesforce Service Console to optimize agent productivity? What features or enhancements have you implemented to improve the user experience?
+
+22. Can you explain how you have set up case routing in Salesforce? What automation or custom solutions have you used to ensure cases are routed to the right agents or queues efficiently?
+
+23. How do you utilize Salesforce automation tools like Process Builder, Flows, or Workflow Rules? Could you share an example where automation significantly improved business processes?
+
+24. How do you ensure data security in Salesforce? Could you describe your experience with profiles, permission sets, role hierarchy, and sharing rules?
+
+25. How do you handle errors in Salesforce, especially in scenarios involving integrations or complex processes? Can you describe a situation where robust error handling was crucial for the success of a project?
+
+26. What strategies do you use to optimize Salesforce queries, especially when working with large datasets? How do you ensure performance and scalability in your SOQL queries?
+
+27. Can you explain how you manage the request and response bodies when integrating Salesforce with external systems? Could you provide an example of how you handled complex integrations?
+
+28. How have you utilized the Fetch API in Salesforce or in web applications that interact with Salesforce? What are the typical challenges you've encountered when working with APIs?
+
+29. Can you explain how you’ve implemented the HTTP POST method in Salesforce (e.g., using Apex REST or external callouts)? Could you walk us through a specific scenario where you used it effectively?
+
+
+
+
+
+
+
+
+
+
+
+
